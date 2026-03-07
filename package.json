@@ -1,0 +1,27 @@
+{
+  "name": "mountsea-sora",
+  "version": "1.0.0",
+  "description": "Node.js SDK for Sora 2 API - Generate videos with OpenAI Sora 2 via Mountsea AI. The cheapest Sora API.",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "keywords": [
+    "sora", "sora-api", "sora-2", "sora2", "openai-sora",
+    "text-to-video", "video-generation", "ai-video",
+    "mountsea", "mountsea-ai", "ai", "video", "generative-ai"
+  ],
+  "author": "Mountsea AI <support@mountsea.ai>",
+  "license": "MIT",
+  "homepage": "https://shanhaiapi.com/zh/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mountsea-ai/sora-api"
+  },
+  "bugs": {
+    "url": "https://github.com/mountsea-ai/sora-api/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {}
+}
+
